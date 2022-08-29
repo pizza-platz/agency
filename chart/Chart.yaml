@@ -1,0 +1,6 @@
+apiVersion: v2
+name: agency-chart
+description: Pizza-Platz agency
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
